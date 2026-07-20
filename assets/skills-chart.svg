@@ -20,7 +20,7 @@
   <text x="640" y="82" text-anchor="end" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="700" fill="#00C6FF">92%</text>
   <rect x="30" y="90" width="610" height="12" rx="6" fill="#161b22" stroke="#2c5364" stroke-width="1"/>
   <rect x="30" y="90" width="0" height="12" rx="6" fill="url(#barGradient)">
-    <animate attributeName="width" from="0" to="561" dur="1.3s" begin="0.15s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.3 1"/>
+    <animate attributeName="width" from="0" to="561" dur="1.8s" begin="0s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.3 1"/>
   </rect>
 
   <!-- Row 2: CI/CD & GitOps - 90% -->
@@ -28,7 +28,7 @@
   <text x="640" y="134" text-anchor="end" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="700" fill="#00C6FF">90%</text>
   <rect x="30" y="142" width="610" height="12" rx="6" fill="#161b22" stroke="#2c5364" stroke-width="1"/>
   <rect x="30" y="142" width="0" height="12" rx="6" fill="url(#barGradient)">
-    <animate attributeName="width" from="0" to="549" dur="1.3s" begin="0.35s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.3 1"/>
+    <animate attributeName="width" from="0" to="549" dur="1.8s" begin="1.05s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.3 1"/>
   </rect>
 
   <!-- Row 3: Kubernetes & Orchestration - 88% -->
@@ -36,7 +36,7 @@
   <text x="640" y="186" text-anchor="end" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="700" fill="#00C6FF">88%</text>
   <rect x="30" y="194" width="610" height="12" rx="6" fill="#161b22" stroke="#2c5364" stroke-width="1"/>
   <rect x="30" y="194" width="0" height="12" rx="6" fill="url(#barGradient)">
-    <animate attributeName="width" from="0" to="537" dur="1.3s" begin="0.55s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.3 1"/>
+    <animate attributeName="width" from="0" to="537" dur="1.8s" begin="2.1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.3 1"/>
   </rect>
 
   <!-- Row 4: Infrastructure as Code - 85% -->
@@ -44,7 +44,7 @@
   <text x="640" y="238" text-anchor="end" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="700" fill="#00C6FF">85%</text>
   <rect x="30" y="246" width="610" height="12" rx="6" fill="#161b22" stroke="#2c5364" stroke-width="1"/>
   <rect x="30" y="246" width="0" height="12" rx="6" fill="url(#barGradient)">
-    <animate attributeName="width" from="0" to="518" dur="1.3s" begin="0.75s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.3 1"/>
+    <animate attributeName="width" from="0" to="518" dur="1.8s" begin="3.15s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.3 1"/>
   </rect>
 
   <!-- Row 5: Observability & Monitoring - 80% -->
@@ -52,6 +52,6 @@
   <text x="640" y="290" text-anchor="end" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="700" fill="#00C6FF">80%</text>
   <rect x="30" y="298" width="610" height="12" rx="6" fill="#161b22" stroke="#2c5364" stroke-width="1"/>
   <rect x="30" y="298" width="0" height="12" rx="6" fill="url(#barGradient)">
-    <animate attributeName="width" from="0" to="488" dur="1.3s" begin="0.95s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.3 1"/>
+    <animate attributeName="width" from="0" to="488" dur="1.8s" begin="4.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.3 1"/>
   </rect>
 </svg>
