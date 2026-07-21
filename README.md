@@ -2,8 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hola%2C%20soy%20Luis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20-%20Automatizacion&descAlignY=58&descSize=18">
 
-<a href="https://github.com/yourusername">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=650&height=50&lines=Luis+%7C+Systems+Engineer;Infrastructure+Engineer;Cloud+%26+Software+Architect;CI/CD" alt="Typing SVG" />
+<a href="https://github.com/LuisGuillermoJ">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=650&height=50&lines=Luis+%7C+Systems+Engineer;Infrastructure+Engineer;Cloud+%26+Software+Architect;CI%2FCD" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -133,26 +133,27 @@ devops_engineer:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&icon_color=00C6FF&border_color=2c5364" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&border_color=d0d7de" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&icon_color=00C6FF&border_color=2c5364" alt="Estadísticas de GitHub" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=yourusername&background=0d1117&border=2c5364&ring=00C6FF&fire=00C6FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C6FF&sideLabels=8b949e&dates=8b949e" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=yourusername&background=ffffff&border=d0d7de&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=57606a&dates=57606a" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=yourusername&background=0d1117&border=2c5364&ring=00C6FF&fire=00C6FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C6FF&sideLabels=8b949e&dates=8b949e" alt="Racha de contribuciones" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LuisGuillermoJ&show_icons=true&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&icon_color=00C6FF&border_color=2c5364" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LuisGuillermoJ&show_icons=true&bg_color=ffffff&title_color=0969da&text_color=24292f&icon_color=0969da&border_color=d0d7de" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuisGuillermoJ&show_icons=true&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&icon_color=00C6FF&border_color=2c5364" alt="Estadísticas de GitHub" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&border_color=2c5364" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&border_color=2c5364" alt="Lenguajes más usados" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=LuisGuillermoJ&background=0d1117&border=2c5364&ring=00C6FF&fire=00C6FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C6FF&sideLabels=8b949e&dates=8b949e" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=LuisGuillermoJ&background=ffffff&border=d0d7de&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=57606a&dates=57606a" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=LuisGuillermoJ&background=0d1117&border=2c5364&ring=00C6FF&fire=00C6FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00C6FF&sideLabels=8b949e&dates=8b949e" alt="Racha de uciones" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=yourusername&theme=flat&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" />
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="Trofeos de GitHub" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGuillermoJ&layout=compact&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&border_color=2c5364" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGuillermoJ&layout=compact&bg_color=ffffff&title_color=0969da&text_color=24292f&border_color=d0d7de" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGuillermoJ&layout=compact&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&border_color=2c5364" alt="Lenguajes más usados" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=LuisGuillermoJ&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=LuisGuillermoJ&theme=flat&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LuisGuillermoJ&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=12&margin-h=12" alt="Trofeos de GitHub" />
 </picture>
 
 </div>
@@ -164,9 +165,9 @@ devops_engineer:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=c9d1d9&line=00C6FF&point=00C6FF&title_color=00C6FF&border_color=2c5364&area=true&area_color=00C6FF" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=ffffff&color=24292f&line=0969da&point=0969da&title_color=0969da&border_color=d0d7de&area=true&area_color=0969da" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=c9d1d9&line=00C6FF&point=00C6FF&title_color=00C6FF&border_color=2c5364&area=true&area_color=00C6FF" width="100%" alt="Gráfico de actividad" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuisGuillermoJ&bg_color=0d1117&color=c9d1d9&line=00C6FF&point=00C6FF&title_color=00C6FF&border_color=2c5364&area=true&area_color=00C6FF" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LuisGuillermoJ&bg_color=ffffff&color=24292f&line=0969da&point=0969da&title_color=0969da&border_color=d0d7de&area=true&area_color=0969da" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisGuillermoJ&bg_color=0d1117&color=c9d1d9&line=00C6FF&point=00C6FF&title_color=00C6FF&border_color=2c5364&area=true&area_color=00C6FF" width="100%" alt="Gráfico de actividad" />
 </picture>
 
 </div>
@@ -178,9 +179,14 @@ devops_engineer:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" width="100%" alt="Snake de contribuciones" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/LuisGuillermoJ/LuisGuillermoJ/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/LuisGuillermoJ/LuisGuillermoJ/output/github-contribution-grid-snake.svg" />
+  <img
+    src="https://raw.githubusercontent.com/LuisGuillermoJ/LuisGuillermoJ/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Snake de contribuciones" />
 </picture>
 
 </div>
