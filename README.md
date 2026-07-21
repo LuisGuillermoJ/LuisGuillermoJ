@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hola%2C+soy+Tu+Nombre&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps+Engineer+%7C+Cloud+%26+Automatizacion&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hola%2C%20soy%20Luis&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20-%20Automatizacion&descAlignY=58&descSize=18">
 
 <a href="https://github.com/yourusername">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=650&height=50&lines=Luis+%7C+Systems+Engineer;Infrastructure+Engineer;Cloud+%26+Software+Architect;CI/CD" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luis%20Guillermo%20Jr-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/luis-guillermo-jr-a2a370423/)
-[![Email](https://img.shields.io/badge/Email-tu@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:tu@email.com)
+[![Email](https://img.shields.io/badge/Email-luisguillermo09192@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:luisguillermo09192@gmail.com)
 
 <br/>
 
@@ -116,14 +116,14 @@ devops_engineer:
 ## 📌 Proyectos destacados
 
 <div align="center">
-
+<!--
 <a href="https://github.com/yourusername/nombre-repo-1">
   <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=nombre-repo-1&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&icon_color=00C6FF&border_color=2c5364" />
 </a>
 <a href="https://github.com/yourusername/nombre-repo-2">
   <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=nombre-repo-2&bg_color=0d1117&title_color=00C6FF&text_color=c9d1d9&icon_color=00C6FF&border_color=2c5364" />
 </a>
-
+-->
 </div>
 
 <br/>
